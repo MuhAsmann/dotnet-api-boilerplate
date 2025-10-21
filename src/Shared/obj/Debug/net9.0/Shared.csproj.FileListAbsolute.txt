@@ -1,0 +1,11 @@
+/home/asman/Documents/work/dotnetLearn/src/Shared/bin/Debug/net9.0/Shared.deps.json
+/home/asman/Documents/work/dotnetLearn/src/Shared/bin/Debug/net9.0/Shared.dll
+/home/asman/Documents/work/dotnetLearn/src/Shared/bin/Debug/net9.0/Shared.pdb
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/Shared.AssemblyInfoInputs.cache
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/Shared.AssemblyInfo.cs
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/Shared.csproj.CoreCompileInputs.cache
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/Shared.dll
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/refint/Shared.dll
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/Shared.pdb
+/home/asman/Documents/work/dotnetLearn/src/Shared/obj/Debug/net9.0/ref/Shared.dll

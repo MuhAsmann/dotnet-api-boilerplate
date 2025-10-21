@@ -1,0 +1,11 @@
+/home/asman/Documents/work/dotnetLearn/src/Domain/bin/Debug/net9.0/Domain.deps.json
+/home/asman/Documents/work/dotnetLearn/src/Domain/bin/Debug/net9.0/Domain.dll
+/home/asman/Documents/work/dotnetLearn/src/Domain/bin/Debug/net9.0/Domain.pdb
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/Domain.dll
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/refint/Domain.dll
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/Domain.pdb
+/home/asman/Documents/work/dotnetLearn/src/Domain/obj/Debug/net9.0/ref/Domain.dll
