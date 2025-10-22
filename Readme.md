@@ -1,6 +1,3 @@
-Perfect ⚡ — here’s a clean, production-ready `README.md` template you can drop straight into your `.NET Clean Architecture` repo (e.g. `dotnetLearn/README.md`).
-It includes setup instructions, architecture explanation, and common commands for new contributors.
-
 ---
 
 ```markdown
@@ -192,14 +189,9 @@ chmod +x setup.sh
 ## 🧑‍💻 Author
 
 **Your Name**
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🌐 [yourwebsite.com]
+📧 [[muhammadasmann@gmail.com](mailto:uhammadasmann@gmail.com)]
+🌐 [MuhAsmann.github.io]
 
 ---
 
-```
-
----
-
-Would you like me to extend this `README` with a **“Tech Stack”** section (listing frameworks, tools, and libraries like EF Core, FluentValidation, MediatR, etc.) — or keep it simple like above?
 ```
