@@ -1,13 +1,3 @@
----
-
-```markdown
-# 🧱 .NET Clean Architecture API
-
-A modular **Clean Architecture** API built with **.NET 8**, **Entity Framework Core**, and **PostgreSQL**.
-
-This project demonstrates how to structure enterprise-grade .NET applications with clear separation of concerns between layers: **Api**, **Application**, **Domain**, and **Infrastructure**.
-
----
 
 ## 📂 Project Structure
 
